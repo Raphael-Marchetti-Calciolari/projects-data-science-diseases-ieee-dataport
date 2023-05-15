@@ -1,5 +1,10 @@
 # Projeto para analisar correlações entre datasets disponíveis em [IEEE Dataport](https://ieee-dataport.org/datasets)
 ---
+# Datasets
+[HEART DISEASE DATASET](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive)
+[SEER BREAST CANCER DATA](https://ieee-dataport.org/open-access/seer-breast-cancer-data)
+[DIABETES DISEASE UPDATED DATASET](https://data.mendeley.com/datasets/wj9rwkp9c2/1)
+---
 # Cronograma execução trabalho ciência de dados
 ## Extração
 1. Extrair os dados `JUNTOS - DIA 15/05, segunda-feira 19h45`
