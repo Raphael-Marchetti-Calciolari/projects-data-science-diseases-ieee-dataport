@@ -2,8 +2,11 @@
 ---
 # Datasets
 [HEART DISEASE DATASET](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive)
+
 [SEER BREAST CANCER DATA](https://ieee-dataport.org/open-access/seer-breast-cancer-data)
+
 [DIABETES DISEASE UPDATED DATASET](https://data.mendeley.com/datasets/wj9rwkp9c2/1)
+
 ---
 # Cronograma execução trabalho ciência de dados
 ## Extração
