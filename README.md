@@ -22,9 +22,9 @@
     - 3.1. Considerar limitar a quantidade de dados
 
 ## Transformação
-4. Limpar/Tratar os dados `JUNTOS - DIA 17/05, quarta-feira 19h45`
+4. Limpar/Tratar os dados `JUNTOS - DIA 20/05, sábado-feira 19h45`
     - 4.1. Considerar feedbacks nos comentários para guiar
-5. Estruturar os dados `JUNTOS - DIA 17/05, quarta-feira 19h45`
+5. Estruturar os dados `JUNTOS - DIA 20/05, sábado-feira 19h45`
     - 5.1. colocar em uma tabela
     - 5.2. considerar mapear como a tabela é
 
