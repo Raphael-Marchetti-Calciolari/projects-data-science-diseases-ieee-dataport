@@ -35,3 +35,6 @@
     - 7.1. Testar as hitpóteses (caso necessário adicionar novas bases e/ou hipóteses)
     - 7.2. Observar gráficos e correlações
     - 7.3. Anotar resultados
+
+# Datafólio
+<img src="https://github.com/Raphael-Marchetti-Calciolari/projects-data-science-diseases-ieee-dataport/blob/main/EDA_Ciencia_de_Dados_Datafolio.png?raw=true"/>
